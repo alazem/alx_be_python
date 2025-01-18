@@ -1,4 +1,4 @@
-    import os
+import os
 
 def file_exists_and_not_empty(file_path):
     """
